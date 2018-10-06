@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn.btn-default:hover,
+#scrolling_horizontal h3:hover {
+	background-color: #a8a4df;
+	border-color: #a8a4df;
+	color: #ffffff;
+}
+
+.m-body {
+	background-color: #F2F3F8;
+}
+
+.m--bg-csblue {
+	background-color: #258fd8 !important;
+}
